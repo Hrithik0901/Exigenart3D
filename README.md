@@ -1,2 +1,2 @@
-# Exigenart3D
+# Exigentart3D
 Tools Provider
